@@ -1,5 +1,7 @@
 <template>
   <div>
-    <BlogPosts />
+    <NuxtLayout name="default">
+      <BlogPosts />
+    </NuxtLayout>
   </div>
 </template>
