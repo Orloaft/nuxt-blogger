@@ -13,6 +13,7 @@
     "nuxt": "^3.4.3"
   },
   "dependencies": {
+    "mongodb": "^5.5.0",
     "sass": "^1.62.1"
   }
 }
