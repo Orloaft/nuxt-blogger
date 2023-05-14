@@ -1,7 +1,7 @@
 <template>
   <div>
     <NuxtLayout name="default">
-      <BlogPosts />
+      <TextEditor />
     </NuxtLayout>
   </div>
 </template>
